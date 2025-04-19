@@ -22,7 +22,7 @@ This repository contains sample implementations of various Agno agents and workf
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/vivekpathania/Agno-Session
    cd cli-samples
    ```
 

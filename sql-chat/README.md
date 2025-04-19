@@ -35,7 +35,7 @@ This project demonstrates how to build an interactive SQL chatbot using natural 
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/vivekpathania/Agno-Session
    cd sql-chat
    ```
 
