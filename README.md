@@ -6,7 +6,7 @@ This repository contains examples and implementations of AI agents and workflows
 
 ### [SQL Chat with Agno Workflows](sql-chat/README.md)
 
-![SQL Chat Application](https://github.com/vivekpathania/Agno-Session/blob/main/assets/Screenshot%202025-04-19%20at%207.00.43%20PM.png?raw=true)
+![SQL Chat Application](https://github.com/vivekpathania/Agno-Session/blob/main/assets/sql-chat.png?raw=true)
 
 A natural language SQL chatbot that allows users to query databases using plain English. The application uses Agno's workflow capabilities to process queries through specialized agents.
 
